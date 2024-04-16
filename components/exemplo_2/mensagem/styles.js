@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
         borderWidth: 2, 
         borderColor: 'orange', 
         borderRadius: 20, 
+        marginBottom: 10, 
     }, 
 }); 
 
