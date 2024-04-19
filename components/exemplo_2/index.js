@@ -11,7 +11,7 @@ function Exemplo2 () {
 
             <Mensagem nome='Ewerton' sobrenome='Silva' />
             <Mensagem nome='Ana' idade={23} />
-            <Mensagem nome='Nevertoviana' />
+            <Mensagem sobrenome='Santos' />
 
         </View>
     );
