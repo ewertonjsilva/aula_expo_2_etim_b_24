@@ -34,6 +34,15 @@ const styles = StyleSheet.create({
         fontSize: 35, 
         color: '#673AB7', 
         marginVertical: 10, 
+    }, 
+    ladolado: {
+        flexDirection: 'row', 
+        justifyContent: 'space-between', 
+        // borderWidth: 2, 
+        width: '80%', 
+    }, 
+    btnPequeno: {
+        width: '40%', 
     },
 }); 
 
